@@ -1,0 +1,12 @@
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\bin\Debug\net5.0\Infra.deps.json
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\bin\Debug\net5.0\Infra.dll
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\bin\Debug\net5.0\Infra.pdb
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\obj\Debug\net5.0\Infra.csproj.AssemblyReference.cache
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\obj\Debug\net5.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\obj\Debug\net5.0\Infra.AssemblyInfoInputs.cache
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\obj\Debug\net5.0\Infra.AssemblyInfo.cs
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\obj\Debug\net5.0\Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\obj\Debug\net5.0\Infra.dll
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\obj\Debug\net5.0\refint\Infra.dll
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\obj\Debug\net5.0\Infra.pdb
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\obj\Debug\net5.0\ref\Infra.dll

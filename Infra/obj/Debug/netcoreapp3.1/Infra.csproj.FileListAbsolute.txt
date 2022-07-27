@@ -1,0 +1,10 @@
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.AssemblyReference.cache
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\obj\Debug\netcoreapp3.1\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\obj\Debug\netcoreapp3.1\Infra.dll
+C:\Projetos\EnvioEmailAzure\EnvioEmail\Infra\obj\Debug\netcoreapp3.1\Infra.pdb
